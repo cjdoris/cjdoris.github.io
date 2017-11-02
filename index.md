@@ -1,5 +1,4 @@
-# cjdoris.github.io
-See [my github profile](https://github.com/cjdoris).
+# Christopher Doris
 
 ## Code
 - **[`ExactpAdics`](/ExactpAdics)**: User-friendly package for performing p-adic computations exactly.
