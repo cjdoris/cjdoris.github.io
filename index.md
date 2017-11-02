@@ -1,4 +1,5 @@
 # Christopher Doris
+PhD mathematics research student, [University of Bristol](https://www.bristolmathsresearch.org), UK.
 
 ## Code
 - **[`ExactpAdics`](/ExactpAdics)**: User-friendly package for performing p-adic computations exactly.
