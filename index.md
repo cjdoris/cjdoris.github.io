@@ -9,4 +9,4 @@ PhD mathematics research student, [University of Bristol](https://www.bristolmat
 - **[`sublime-magma-snippets`](https://packagecontrol.io/packages/MagmaSnippets)**: Magma snippets for Sublime.
 
 ## Publications
-- *3-torsion and conductor of genus 2 curves*, T. Dokchitser, C. Doris. [arXiv:1706.06162](https://arxiv.org/abs/1706.06162) \[math.NT] (2017).
+- T. Dokchitser, C. Doris, *3-torsion and conductor of genus 2 curves*, [arXiv:1706.06162](https://arxiv.org/abs/1706.06162) \[math.NT], 2017.
