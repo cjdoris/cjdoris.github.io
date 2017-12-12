@@ -13,3 +13,5 @@ PhD mathematics research student, [University of Bristol](https://www.bristolmat
 
 ## Publications
 - T. Dokchitser, C. Doris, *3-torsion and conductor of genus 2 curves*, [arXiv:1706.06162](https://arxiv.org/abs/1706.06162) \[math.NT], 2017.
+
+<div style="margin-top:30px; text-align:center;"><small><a href="https://github.com/cjdoris/cjdoris.github.io/edit/master/index.md">edit me</a></small></div>
