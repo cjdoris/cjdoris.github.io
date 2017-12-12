@@ -1,6 +1,11 @@
 # Christopher Doris
 PhD mathematics research student, [University of Bristol](https://www.bristolmathsresearch.org), UK.
 
+**Research Interests.**
+- Computational p-adics.
+- Galois theory and ramification theory.
+- Factorization and root-finding of systems of equations.
+
 ## Code
 - [My Github profile](https://github.com/cjdoris)
 - **[`ExactpAdics`](https://cjdoris.github.io/ExactpAdics)** ([github](https://github.com/cjdoris/ExactpAdics)): User-friendly package for performing p-adic computations exactly.
