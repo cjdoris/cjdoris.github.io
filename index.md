@@ -1,7 +1,7 @@
 # Christopher Doris
 PhD mathematics research student, [University of Bristol](https://www.bristolmathsresearch.org), UK.
 
-**Research Interests.**
+### Research interests
 - Computational p-adics.
 - Galois theory and ramification theory.
 - Factorization and root-finding of systems of equations.
