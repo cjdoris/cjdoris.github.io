@@ -1,6 +1,7 @@
 # Overviews
 
-## <a id="3torsion">3-torsion and conductor of genus 2 curves</a> ([arXiv](https://arxiv.org/abs/1706.06162))
+## 3-torsion and conductor of genus 2 curves ([arXiv](https://arxiv.org/abs/1706.06162))
+{:#3torsion}
 
 Given a curve defined over the rational numbers (or a number field), its (global) conductor is an integer measuring its "arithmetic complexity". It is a local quantity, meaning that its p-part (the "local conductor exponent") is a function of the curve over the field of p-adic numbers. For odd p, the p-part of the conductor is well-understood and computable. The 2-part however is more difficult: the previous best algorithm for computing this relies on the conjectural functional equation of the L-function of the curve, and as such it does not yield proven results. Furthermore, it uses global arithmetic, and so its run time is quadratic in the conductor, and so is only practical for small conductor.
 
