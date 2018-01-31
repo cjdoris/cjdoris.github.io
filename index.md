@@ -17,6 +17,6 @@ PhD mathematics research student, [University of Bristol](https://www.bristolmat
 - **[`sublime-magma-snippets`](https://packagecontrol.io/packages/MagmaSnippets)** ([github](https://github.com/cjdoris/sublime-magma-snippets)): Magma snippets for Sublime.
 
 ## Publications
-- **3-torsion and conductor of genus 2 curves**, T. Dokchitser, C.Doris, pre-print, 2017. ([Overview](/overview#3torsion), [arXiv](https://arxiv.org/abs/1706.06162))
+- **3-torsion and conductor of genus 2 curves**, T. Dokchitser, C. Doris, pre-print, 2017. ([Overview](/overview#3torsion), [arXiv](https://arxiv.org/abs/1706.06162))
 
 <div style="margin-top:30px; text-align:right;"><a style="color: grey; font-size: small;" href="https://github.com/cjdoris/cjdoris.github.io/edit/master/index.md">edit me</a></div>
