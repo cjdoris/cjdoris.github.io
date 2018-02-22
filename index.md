@@ -11,6 +11,7 @@ PhD mathematics research student, [University of Bristol](https://www.bristolmat
 - **[`ExactpAdics`](https://cjdoris.github.io/ExactpAdics)** ([github](https://github.com/cjdoris/ExactpAdics)): User-friendly package for performing p-adic computations exactly.
 - **[`Genus2Conductor`](https://cjdoris.github.io/Genus2Conductor)** ([github](https://github.com/cjdoris/Genus2Conductor)): For computing the conductor of a genus 2 hyperelliptic curve.
 - **[`pAdicGaloisGroup`](https://cjdoris.github.io/pAdicGaloisGroup)** ([github](https://github.com/cjdoris/pAdicGaloisGroup)): Experimental code for computing Galois groups over p-adic fields.
+- **[`pAdicExtensions`](https://cjdoris.github.io/pAdicExtensions)** ([github](https://github.com/cjdoris/pAdicExtensions)): For computing extensions of p-adic fields.
 - **[`MagmaUtils`](https://cjdoris.github.io/MagmaUtils)** ([github](https://github.com/cjdoris/MagmaUtils)): Adds extra basic functionality to Magma.
 - **[`magdoc`](https://cjdoris.github.io/magdoc)** ([github](https://github.com/cjdoris/magdoc)): For automatically generating documentation from Magma code.
 - **[`sublime-magma`](https://packagecontrol.io/packages/Magma)** ([github](https://github.com/cjdoris/sublime-magma)): Magma language support for the Sublime text editor.
