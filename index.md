@@ -1,7 +1,7 @@
 # Christopher Doris
 PhD mathematics research student, [University of Bristol](https://www.bristolmathsresearch.org), UK.
 
-Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](https://github.com/cjdoris), [ORCiD](https://orcid.org/0000-0003-2082-8668)
+Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](https://github.com/cjdoris), [ORCiD](https://orcid.org/0000-0003-2082-8668).
 
 ### Research interests
 - Computational p-adics.
