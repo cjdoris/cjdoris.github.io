@@ -1,13 +1,14 @@
 # Christopher Doris
 PhD mathematics research student, [University of Bristol](https://www.bristolmathsresearch.org), UK.
 
+Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](https://github.com/cjdoris), [ORCiD](https://orcid.org/0000-0003-2082-8668)
+
 ### Research interests
 - Computational p-adics.
 - Galois theory and ramification theory.
 - Factorization and root-finding of systems of equations.
 
 ## Code
-- [My Github profile](https://github.com/cjdoris)
 - **[`ExactpAdics`](https://cjdoris.github.io/ExactpAdics)** ([github](https://github.com/cjdoris/ExactpAdics)): User-friendly package for performing p-adic computations exactly.
 - **[`Genus2Conductor`](https://cjdoris.github.io/Genus2Conductor)** ([github](https://github.com/cjdoris/Genus2Conductor)): For computing the conductor of a genus 2 hyperelliptic curve.
 - **[`pAdicGaloisGroup`](https://cjdoris.github.io/pAdicGaloisGroup)** ([github](https://github.com/cjdoris/pAdicGaloisGroup)): Experimental code for computing Galois groups over p-adic fields.
