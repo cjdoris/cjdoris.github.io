@@ -10,7 +10,7 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 
 ## Code
 - **[`ExactpAdics`](https://cjdoris.github.io/ExactpAdics)** ([github](https://github.com/cjdoris/ExactpAdics)): User-friendly package for performing p-adic computations exactly.
-- **`ExactpAdics2`** ([github](https://github.com/cjdoris/ExactpAdics2)): User-friendly package for performing p-adic computations exactly. *Experimental, alternative implementation.*
+- **[`ExactpAdics2`](https://github.com/cjdoris/ExactpAdics2)** ([github](https://github.com/cjdoris/ExactpAdics2)): User-friendly package for performing p-adic computations exactly. *Experimental, alternative implementation.*
 - **[`Genus2Conductor`](https://cjdoris.github.io/Genus2Conductor)** ([github](https://github.com/cjdoris/Genus2Conductor)): For computing the conductor of a genus 2 hyperelliptic curve.
 - **[`pAdicGaloisGroup`](https://cjdoris.github.io/pAdicGaloisGroup)** ([github](https://github.com/cjdoris/pAdicGaloisGroup)): Experimental code for computing Galois groups over p-adic fields.
 - **[`pAdicExtensions`](https://cjdoris.github.io/pAdicExtensions)** ([github](https://github.com/cjdoris/pAdicExtensions)): For computing extensions of p-adic fields.
