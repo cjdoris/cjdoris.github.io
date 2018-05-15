@@ -3,7 +3,7 @@ PhD mathematics research student, [University of Bristol](https://www.bristolmat
 
 Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](https://github.com/cjdoris), [ORCiD](https://orcid.org/0000-0003-2082-8668), [Stack Exchange](https://stackexchange.com/users/5705287/doris).
 
-### Research interests
+## Research interests
 - Computational p-adics.
 - Galois theory and ramification theory.
 - Factorization and root-finding of systems of equations.
