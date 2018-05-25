@@ -14,11 +14,11 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 - **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), pre-print, 2017. ([Overview](/overview#3torsion), [arXiv](https://arxiv.org/abs/1706.06162))
 
 ## Code
-- **[`ExactpAdics2`](https://cjdoris.github.io/ExactpAdics2)** ([github](https://github.com/cjdoris/ExactpAdics2)): User-friendly package for performing p-adic computations exactly. *Newer implementation, recommended.*
-- **[`ExactpAdics`](https://cjdoris.github.io/ExactpAdics)** ([github](https://github.com/cjdoris/ExactpAdics)): User-friendly package for performing p-adic computations exactly. *First implementation, generally slower than `ExactpAdics2`.*
-- **[`Genus2Conductor`](https://cjdoris.github.io/Genus2Conductor)** ([github](https://github.com/cjdoris/Genus2Conductor)): For computing the conductor of a genus 2 hyperelliptic curve.
+- **[`ExactpAdics2`](https://cjdoris.github.io/ExactpAdics2)** ([github](https://github.com/cjdoris/ExactpAdics2)): User-friendly package for performing p-adic computations exactly. *Newer implementation, recommended.* (See the article "ExactpAdics...".)
+- **[`ExactpAdics`](https://cjdoris.github.io/ExactpAdics)** ([github](https://github.com/cjdoris/ExactpAdics)): User-friendly package for performing p-adic computations exactly. *First implementation, generally slower than `ExactpAdics2`.* (See the article "ExactpAdics...".)
+- **[`Genus2Conductor`](https://cjdoris.github.io/Genus2Conductor)** ([github](https://github.com/cjdoris/Genus2Conductor)): For computing the conductor of a genus 2 hyperelliptic curve. (See the article "3-torsion...".)
 - **[`pAdicGaloisGroup`](https://cjdoris.github.io/pAdicGaloisGroup)** ([github](https://github.com/cjdoris/pAdicGaloisGroup)): Experimental code for computing Galois groups over p-adic fields.
-- **[`pAdicExtensions`](https://cjdoris.github.io/pAdicExtensions)** ([github](https://github.com/cjdoris/pAdicExtensions)): For computing extensions of p-adic fields.
+- **[`pAdicExtensions`](https://cjdoris.github.io/pAdicExtensions)** ([github](https://github.com/cjdoris/pAdicExtensions)): For computing extensions of p-adic fields. (See the article "On enumerating extensions...".)
 - **[`MagmaUtils`](https://cjdoris.github.io/MagmaUtils)** ([github](https://github.com/cjdoris/MagmaUtils)): Adds extra basic functionality to Magma.
 - **[`magdoc`](https://cjdoris.github.io/magdoc)** ([github](https://github.com/cjdoris/magdoc)): For automatically generating documentation from Magma code.
 - **[`sublime-magma`](https://packagecontrol.io/packages/Magma)** ([github](https://github.com/cjdoris/sublime-magma)): Magma language support for the Sublime text editor.
