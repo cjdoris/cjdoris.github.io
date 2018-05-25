@@ -20,6 +20,7 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 - **[`sublime-magma-snippets`](https://packagecontrol.io/packages/MagmaSnippets)** ([github](https://github.com/cjdoris/sublime-magma-snippets)): Magma snippets for Sublime.
 
 ## Articles
+- **ExactpAdics: An exact representation of p-adic numbers**, pre-print, 2018. ([Overview](/overview#exactpadics), [arXiv](https://arxiv.org/abs/1805.09794))
 - **On enumerating extensions of p-adic fields with given invariants**, pre-print, 2018. ([Overview](/overview#extensions), [arXiv](https://arxiv.org/abs/1803.08023))
 - **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), pre-print, 2017. ([Overview](/overview#3torsion), [arXiv](https://arxiv.org/abs/1706.06162))
 
