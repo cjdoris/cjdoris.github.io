@@ -1,5 +1,13 @@
 # Overviews
 
+<h2 id="exactpadics">ExactpAdics: An exact representation of p-adic numbers (<a href="https://arxiv.org/abs/1805.09794">arXiv</a>)</h2>
+
+To date, the only highly-featured implementations of p-adic numbers are in Sage and Magma, and in both cases they are represented inexactly as a residue class, like `1 + O(2^10)`, which is the p-adic analogue of a real number being represented in floating-point arithmetic as `1.0000000000`. Since they work to a fixed finite precision, which must be decided in advance by the user, precision errors can occur. When this happens, the user must manually increase the initial precision and try again. This is also inefficient because some computations do not require a high precision. In Magma at least, it is not always clear whether `1 + O(2^10)` is really representing a p-adic number or the residue class itself, the distinction being important because some operations, such as polynomial factorization, depend on the interpretation.
+
+We describe two new packages `ExactpAdics` and `ExactpAdics2` for the Magma computer algebra system for working with p-adic numbers exactly, in the sense that numbers are represented lazily to infinite p-adic precision. This has the benefits of increasing user-friendliness and speeding up some computations, as well as forcibly producing provable results. The two packages use different methods for lazy evaluation, which we describe and compare in detail. The intention is that this article will be of benefit to anyone wanting to implement similar functionality in other languages.
+
+We currently recomment the typical user to use `ExactpAdics2`, which is available [here](https://cjdoris.github.io/ExactpAdics2). The original `ExactpAdics`, which is typically slower but could be faster in some applications, is available [here](https://cjdoris.github.io/ExactpAdics).
+
 <h2 id="extensions">On enumerating extensions of p-adic fields with given invariants (<a href="https://arxiv.org/abs/1803.08023">arXiv</a>)</h2>
 
 A well-known invariant of a Galois extension of p-adic fields is its Galois group, and the ramification filtration of the Galois group. For non-Galois extensions, replacing the Galois group by the *Galois set* of embeddings into a normal closure, this Galois set still has a filtration which obeys the "Galois correspondence".
