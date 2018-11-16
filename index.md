@@ -13,6 +13,9 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 - **On enumerating extensions of p-adic fields with given invariants**, pre-print, 2018. ([Overview](/overview#extensions), [arXiv](https://arxiv.org/abs/1803.08023))
 - **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), pre-print, 2017. ([Overview](/overview#3torsion), [arXiv](https://arxiv.org/abs/1706.06162))
 
+## Tables
+- [Galois groups of p-adic fields](https://cjdoris.github.io/ExactpAdics/tables).
+
 ## Code
 - **[`ExactpAdics2`](https://cjdoris.github.io/ExactpAdics2)** ([github](https://github.com/cjdoris/ExactpAdics2)): User-friendly package for performing p-adic computations exactly. *Newer implementation, recommended.* (See the article "ExactpAdics...".)
 - **[`ExactpAdics`](https://cjdoris.github.io/ExactpAdics)** ([github](https://github.com/cjdoris/ExactpAdics)): User-friendly package for performing p-adic computations exactly. *First implementation, generally slower than `ExactpAdics2`.* (See the article "ExactpAdics...".)
