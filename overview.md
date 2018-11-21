@@ -26,4 +26,3 @@ We give an algorithm to compute the conductor for curves of genus 2. It is based
 
 An implementation is available [here](https://cjdoris.github.io/Genus2Conductor). It has been used to verify the conductors of most genus 2 curves in the [LMFDB](http://www.lmfdb.org/Genus2Curve/Q).
 
-<div style="margin-top:30px; text-align:right;"><a style="color: grey; font-size: small;" href="https://github.com/cjdoris/cjdoris.github.io/edit/master/overview.md">edit me</a></div>
