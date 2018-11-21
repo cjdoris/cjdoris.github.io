@@ -26,5 +26,3 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 - **[`magdoc`](https://cjdoris.github.io/magdoc)** ([github](https://github.com/cjdoris/magdoc)): For automatically generating documentation from Magma code.
 - **[`sublime-magma`](https://packagecontrol.io/packages/Magma)** ([github](https://github.com/cjdoris/sublime-magma)): Magma language support for the Sublime text editor.
 - **[`sublime-magma-snippets`](https://packagecontrol.io/packages/MagmaSnippets)** ([github](https://github.com/cjdoris/sublime-magma-snippets)): Magma snippets for Sublime.
-
-<div style="margin-top:30px; text-align:right;"><a style="color: grey; font-size: small;" href="https://github.com/cjdoris/cjdoris.github.io/edit/master/index.md">edit me</a></div>
