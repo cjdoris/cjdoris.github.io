@@ -1,4 +1,3 @@
-# Christopher Doris
 PhD mathematics research student, [University of Bristol](https://www.bristolmathsresearch.org), UK.
 
 Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](https://github.com/cjdoris), [ORCiD](https://orcid.org/0000-0003-2082-8668), [Stack Exchange](https://stackexchange.com/users/5705287/doris).
@@ -11,7 +10,7 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 ## Articles
 - **ExactpAdics: An exact representation of p-adic numbers**, pre-print, 2018. ([Overview](/overview#exactpadics), [arXiv](https://arxiv.org/abs/1805.09794))
 - **On enumerating extensions of p-adic fields with given invariants**, pre-print, 2018. ([Overview](/overview#extensions), [arXiv](https://arxiv.org/abs/1803.08023))
-- **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), pre-print, 2017. ([Overview](/overview#3torsion), [arXiv](https://arxiv.org/abs/1706.06162))
+- **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), *Math. Comp.*, forthcoming. ([Overview](/overview#3torsion), [arXiv](https://arxiv.org/abs/1706.06162))
 
 ## Tables
 - [Galois groups of p-adic fields](https://cjdoris.github.io/pAdicGaloisGroupTables).
