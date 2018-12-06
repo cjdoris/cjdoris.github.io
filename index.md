@@ -1,8 +1,9 @@
-PhD mathematics research student, [University of Bristol](https://www.bristolmathsresearch.org), UK.
+Research fellow at the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) and the [University of Bristol](https://www.bristolmathsresearch.org).
 
 Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](https://github.com/cjdoris), [ORCiD](https://orcid.org/0000-0003-2082-8668), [Stack Exchange](https://stackexchange.com/users/5705287/doris).
 
 ## Research interests
+- Data science.
 - Computational p-adics.
 - Galois theory and ramification theory.
 - Factorization and root-finding of systems of equations.
