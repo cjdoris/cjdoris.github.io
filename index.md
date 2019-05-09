@@ -18,6 +18,8 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 - [Galois groups of p-adic fields](https://cjdoris.github.io/pAdicGaloisGroupTables).
 
 ## Code
+- **[`LogarithmicNumbers.jl`](https://github.com/cjdoris/LogarithmicNumbers.jl)**: Implementation of a [logarithmic number system](https://en.wikipedia.org/wiki/Logarithmic_number_system) for Julia.
+- **[`Infinity.jl`](https://github.com/cjdoris/Infinity.jl)**: Julia package to extend the integers, or any other real type, with infinity.
 - **[`ExactpAdics2`](https://cjdoris.github.io/ExactpAdics2)** ([github](https://github.com/cjdoris/ExactpAdics2)): User-friendly package for performing p-adic computations exactly. *Newer implementation, recommended.* (See the article "ExactpAdics...".)
 - **[`ExactpAdics`](https://cjdoris.github.io/ExactpAdics)** ([github](https://github.com/cjdoris/ExactpAdics)): User-friendly package for performing p-adic computations exactly. *First implementation, generally slower than `ExactpAdics2`.* (See the article "ExactpAdics...".)
 - **[`Genus2Conductor`](https://cjdoris.github.io/Genus2Conductor)** ([github](https://github.com/cjdoris/Genus2Conductor)): For computing the conductor of a genus 2 hyperelliptic curve. (See the article "3-torsion...".)
