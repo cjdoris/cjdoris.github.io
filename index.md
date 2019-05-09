@@ -29,3 +29,9 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 - **[`magdoc`](https://cjdoris.github.io/magdoc)** ([github](https://github.com/cjdoris/magdoc)): For automatically generating documentation from Magma code.
 - **[`sublime-magma`](https://packagecontrol.io/packages/Magma)** ([github](https://github.com/cjdoris/sublime-magma)): Magma language support for the Sublime text editor.
 - **[`sublime-magma-snippets`](https://packagecontrol.io/packages/MagmaSnippets)** ([github](https://github.com/cjdoris/sublime-magma-snippets)): Magma snippets for Sublime.
+
+## Resume
+- **2018-**: Heilbronn research fellow, University of Bristol.
+- **2014-**: PhD mathematics, University of Bristol. Supervisor: Tim Dokchitser.
+- **2008-2009**: Part III/MMath (Distinction), University of Cambridge.
+- **2005-2008**: BSc mathematics (Class I), University of Cambridge.
