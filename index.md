@@ -2,7 +2,7 @@ Research fellow at the [Heilbronn Institute for Mathematical Research](https://h
 
 Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](https://github.com/cjdoris), [ORCiD](https://orcid.org/0000-0003-2082-8668), [Stack Exchange](https://stackexchange.com/users/5705287/doris).
 
-Find me at: Room GA.09, School of Mathematics, University of Bristol, Bristol, BS8 1UG, UK
+Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School of Mathematics](http://www.bristol.ac.uk/maths/), [University of Bristol](http://www.bristol.ac.uk/), Bristol, BS8 1UG, UK.
 
 ## Research interests
 - Data science.
