@@ -11,6 +11,16 @@ Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School 
 - Factorization and root-finding of systems of equations.
 
 ## Articles
+- Given *n* red and *n* blue points, the total monochromatic distance is less than the total bichromatic distance. ([MathSE](https://math.stackexchange.com/a/3461369/305399))
+- On computing the Galois group of a rational polynomial. ([MathSE](https://math.stackexchange.com/a/2653337/305399))
+- When we adjoin one root of a polynomial to a field, how many other roots do we get? ([MathSE](https://math.stackexchange.com/a/2612309/305399))
+- Counting *p*-adic fields with certain properties. ([MathOverflow](https://mathoverflow.net/a/262181/84312))
+- Why a normal extension of a normal extension of a field is not normal. ([MathSE](https://math.stackexchange.com/a/2610715/305399))
+- Trace and discriminant of a field extension are independent. ([MathOverflow](https://mathoverflow.net/a/270012/84312))
+- Why algebraic numbers are a field. ([MathSE](https://math.stackexchange.com/a/2610427/305399))
+- Minimal polynomial of *ab* when those of *x* and *y* are known. ([MathSE](https://math.stackexchange.com/a/2610400/305399))
+
+## Papers
 - **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), *Math. Comp.*, 2018. ([Overview](/overview#3torsion), [article](https://doi.org/10.1090/mcom/3387), [arXiv](https://arxiv.org/abs/1706.06162))
 - **ExactpAdics: An exact representation of p-adic numbers**, pre-print, 2018. ([Overview](/overview#exactpadics), [arXiv](https://arxiv.org/abs/1805.09794))
 - **On enumerating extensions of p-adic fields with given invariants**, pre-print, 2018. ([Overview](/overview#extensions), [arXiv](https://arxiv.org/abs/1803.08023))
