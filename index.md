@@ -30,6 +30,7 @@ Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School 
 - [Galois groups of p-adic fields](https://cjdoris.github.io/pAdicGaloisGroupTables).
 
 ## Code
+- **[`Edlib.jl`](https://github.com/cjdoris/Edlib.jl)**: Julia bindings for the [edlib string alignment library](https://github.com/Martinsos/edlib).
 - **[`MagmaCall.jl`](https://github.com/cjdoris/MagmaCall.jl)**: Call Magma code from Julia.
 - **[`LTWA.jl`](https://github.com/cjdoris/LTWA.jl)**: Produce abbreviations using ISO 4 and the [List of Word Title Abbreviations](https://www.issn.org/services/online-services/access-to-the-ltwa/).
 - **[`LogarithmicNumbers.jl`](https://github.com/cjdoris/LogarithmicNumbers.jl)**: Implementation of a [logarithmic number system](https://en.wikipedia.org/wiki/Logarithmic_number_system) for Julia.
