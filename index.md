@@ -22,10 +22,10 @@ Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School 
 
 ## Papers
 - **Computing the Galois group of a p-adic polynomial**, *Int. J. Number Theory*, accepted 2020.
-- **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), *Math. Comp.*, 2018. ([Overview](/overview#3torsion), [article](https://doi.org/10.1090/mcom/3387), [arXiv](https://arxiv.org/abs/1706.06162))
+- **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), *Math. Comp.*, 2018. ([overview](/overview#3torsion), [article](https://doi.org/10.1090/mcom/3387), [arXiv](https://arxiv.org/abs/1706.06162))
 - **PhD Thesis: Aspects of p-adic computation**, *Bristol University*, 2019. ([thesis](https://research-information.bris.ac.uk/en/theses/aspects-of-padic-computation(31b898ae-fc66-463e-89ed-4bf7a5911932).html))
-- **ExactpAdics: An exact representation of p-adic numbers**, pre-print, 2018. ([Overview](/overview#exactpadics), [arXiv](https://arxiv.org/abs/1805.09794))
-- **On enumerating extensions of p-adic fields with given invariants**, pre-print, 2018. ([Overview](/overview#extensions), [arXiv](https://arxiv.org/abs/1803.08023))
+- **ExactpAdics: An exact representation of p-adic numbers**, pre-print, 2018. ([overview](/overview#exactpadics), [arXiv](https://arxiv.org/abs/1805.09794))
+- **On enumerating extensions of p-adic fields with given invariants**, pre-print, 2018. ([overview](/overview#extensions), [arXiv](https://arxiv.org/abs/1803.08023))
 
 ## Tables
 - [Galois groups of p-adic fields](https://cjdoris.github.io/pAdicGaloisGroupTables).
