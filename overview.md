@@ -1,5 +1,19 @@
 # Overviews
 
+<h2 id="galois">Computing the Galois group of a polynomial over a p-adic field</h2>
+
+If we take a polynomial over a field, take its splitting field, then the automorphism group of the splitting field is the *Galois group* of the polynomial. It has a natural, faithful action on the roots of the polynomial, and so we think of the Galois group as a permutation group. [Galois theory](https://en.wikipedia.org/wiki/Galois_theory) makes strong connections between the structure of the Galois group and the structure of the field, for example that subgroups correspond to subfields.
+
+As well as being theoretically useful, it it useful to compute Galois groups of specific polynomials, but this can be hard.
+
+Over global number fields (such as the rationals) the best general algorithm is due to [Fieker and Klüners](https://arxiv.org/abs/1211.3588), which is a "resolvent method" meaning that it uses so-called "resolvent polynomials" to determine if the Galois group is contained in some particular group, and repeats this until the Galois group is uniquely determined.
+
+Over p-adic fields, much less is known. If the roots of our polynomial generate an unramified or tamely ramified extension, then the well-known structure of these immediately give the Galois group. More recently, [Greve and Pauli](https://www.worldscientific.com/doi/abs/10.1142/S1793042112500832) similarly characterize "singly wildly ramified" extensions (those whose ramification polygon has a single slope) which again leads to an algorithm to compute the Galois group. If the ramification polygon has many slopes, not much is known theoretically. On the other hand, tables of Galois groups for all p-adic fields up to degree 15 have been computed, available in the [Local Fields Database](https://math.la.asu.edu/~jj/localfields) and [LMFDB](https://www.lmfdb.org/LocalNumberField).
+
+This article presents a family of general algorithms for computing the Galois group of a polynomial defined over a p-adic field. At its core, this is also a resolvent method, but with significant departures from the global case. We have used this to verify the above-mentioned Galois groups, and have further computed the Galois groups of all totally ramified 2-adic fields of degrees 18, 20 and 22, tables of which are available [here](https://cjdoris.github.io/pAdicGaloisGroupTables).
+
+
+
 <h2 id="exactpadics">ExactpAdics: An exact representation of p-adic numbers (<a href="https://arxiv.org/abs/1805.09794">arXiv</a>)</h2>
 
 To date, the only highly-featured implementations of p-adic numbers are in Sage and Magma, and in both cases they are represented inexactly as a residue class, like `1 + O(2^10)`, which is the p-adic analogue of a real number being represented in floating-point arithmetic as `1.0000000000`. Since they work to a fixed finite precision, which must be decided in advance by the user, precision errors can occur. When this happens, the user must manually increase the initial precision and try again. This is also inefficient because some computations do not require a high precision. In Magma at least, it is not always clear whether `1 + O(2^10)` is really representing a p-adic number or the residue class itself, the distinction being important because some operations, such as polynomial factorization, depend on the interpretation.
