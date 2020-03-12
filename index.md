@@ -21,10 +21,10 @@ Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School 
 - Minimal polynomial of *ab* when those of *a* and *b* are known. ([MathSE](https://math.stackexchange.com/a/2610400/305399))
 
 ## Papers
+- **Computing the Galois group of a p-adic polynomial**, *Int. J. Number Theory*, accepted 2020.
 - **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), *Math. Comp.*, 2018. ([Overview](/overview#3torsion), [article](https://doi.org/10.1090/mcom/3387), [arXiv](https://arxiv.org/abs/1706.06162))
 - **ExactpAdics: An exact representation of p-adic numbers**, pre-print, 2018. ([Overview](/overview#exactpadics), [arXiv](https://arxiv.org/abs/1805.09794))
 - **On enumerating extensions of p-adic fields with given invariants**, pre-print, 2018. ([Overview](/overview#extensions), [arXiv](https://arxiv.org/abs/1803.08023))
-- **Computing the Galois group of a p-adic polynomial**, forthcoming.
 
 ## Tables
 - [Galois groups of p-adic fields](https://cjdoris.github.io/pAdicGaloisGroupTables).
