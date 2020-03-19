@@ -1,6 +1,6 @@
 # Overviews
 
-<h2 id="galois">Computing the Galois group of a polynomial over a p-adic field</h2>
+<h2 id="galois">Computing the Galois group of a polynomial over a p-adic field (<a href="https://arxiv.org/abs/2003.05834">arXiv</a>)</h2>
 
 If we take a polynomial over a field, take its splitting field, then the automorphism group of the splitting field is the *Galois group* of the polynomial. It has a natural, faithful action on the roots of the polynomial, and so we think of the Galois group as a permutation group. [Galois theory](https://en.wikipedia.org/wiki/Galois_theory) makes strong connections between the structure of the Galois group and the structure of the field, for example that subgroups correspond to subfields.
 
