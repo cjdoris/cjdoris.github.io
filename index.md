@@ -12,6 +12,7 @@ Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School 
 - Factorization and root-finding of systems of equations.
 
 ## Papers & Reports
+- **Data Study Group Network Final Report - Woolfson Laboratory**, with several co-authors, *Alan Turing Institute* (June 2020). Workshop on predicting oligomeric protein structure from amino acid sequences. ([report](https://www.turing.ac.uk/research/publications/data-study-group-network-final-report-woolfson-laboratory), [DOI](http://doi.org/10.5281/zenodo.3877119))
 - **Guiding Principles for Unlocking the Workforce - What Can Mathematics Tell Us?**, with many authors, *Knowledge Transfer Network, Isaac Newton Institute & International Centre for Mathematical Sciences* (working paper, 2020). Workshop on mathematical principles for easing the COVID-19 lockdown. ([homepage](https://www.icms.org.uk/VSG_Workplacefollowup.php), [PDF](https://www.icms.org.uk/downloads/V_KEMS/MATH_PRINICPLES_VSG_PUBLIC.pdf))
 - **Computing the Galois group of a p-adic polynomial**, *Int. J. Number Theory* (accepted 2020). ([overview](/overview#galois), [tables](https://cjdoris.github.io/pAdicGaloisGroupTables), [arXiv](https://arxiv.org/abs/2003.05834))
 - **3-torsion and conductor of genus 2 curves**, with [T. Dokchitser](https://people.maths.bris.ac.uk/~matyd/), *Math. Comput.* (2018). ([overview](/overview#3torsion), [article](https://doi.org/10.1090/mcom/3387), [arXiv](https://arxiv.org/abs/1706.06162))
