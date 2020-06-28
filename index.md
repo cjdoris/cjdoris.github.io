@@ -25,6 +25,8 @@ Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School 
 - [Galois groups of p-adic fields](https://cjdoris.github.io/pAdicGaloisGroupTables).
 
 ## Code
+- **[`Countries.jl`](https://github.com/cjdoris/Countries.jl)**: For handling the countries on Earth.
+- **[`CustomAxes.jl`](https://github.com/cjdoris/CustomAxes.jl)**: Arrays supporting customized axes, such as names and labels.
 - **[`ShadeYourData.jl`](https://github.com/cjdoris/ShadeYourData.jl)**: Interactive plotting of millions of data points.
 - **[`Edlib.jl`](https://github.com/cjdoris/Edlib.jl)**: Julia bindings for the [edlib string alignment library](https://github.com/Martinsos/edlib).
 - **[`MagmaCall.jl`](https://github.com/cjdoris/MagmaCall.jl)**: Call Magma code from Julia.
