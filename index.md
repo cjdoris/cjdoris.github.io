@@ -25,6 +25,7 @@ Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School 
 - [Galois groups of p-adic fields](https://cjdoris.github.io/pAdicGaloisGroupTables).
 
 ## Code
+- **[`ARFFFiles.jl`](https://github.com/cjdoris/ARFFFiles.jl)**: For loading and saving ARFF (Attribute Relation File Format) files.
 - **[`Countries.jl`](https://github.com/cjdoris/Countries.jl)**: For handling the countries on Earth.
 - **[`CustomAxes.jl`](https://github.com/cjdoris/CustomAxes.jl)**: Arrays supporting customized axes, such as names and labels.
 - **[`ShadeYourData.jl`](https://github.com/cjdoris/ShadeYourData.jl)**: Interactive plotting of millions of data points.
