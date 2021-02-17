@@ -1,8 +1,4 @@
-Research fellow at the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) and the [University of Bristol](https://www.bristolmathsresearch.org).
-
 Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](https://github.com/cjdoris), [ORCiD](https://orcid.org/0000-0003-2082-8668), [Stack Exchange](https://stackexchange.com/users/5705287/doris).
-
-Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School of Mathematics](http://www.bristol.ac.uk/maths/), [University of Bristol](http://www.bristol.ac.uk/), Bristol, BS8 1UG, UK.
 
 ## Research interests
 - Data science and machine learning.
@@ -55,7 +51,8 @@ Find me at: [Room GA.09](http://www.bristol.ac.uk/maths/fry-building/), [School 
 - Minimal polynomial of *ab* when those of *a* and *b* are known. ([MathSE](https://math.stackexchange.com/a/2610400/305399))
 
 ## Resume
-- **2018-**: Heilbronn research fellow, University of Bristol.
+- **2020-**: Senior data scientist, Alan Turing Institiute.
+- **2018-2020**: Heilbronn research fellow, University of Bristol.
 - **2014-2018**: PhD mathematics, University of Bristol. Supervisor: Tim Dokchitser.
 - **2008-2009**: Part III/MMath (Distinction), University of Cambridge.
 - **2005-2008**: BSc mathematics (Class I), University of Cambridge.
