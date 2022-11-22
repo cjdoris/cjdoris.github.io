@@ -21,6 +21,8 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 - [Galois groups of p-adic fields](https://cjdoris.github.io/pAdicGaloisGroupTables).
 
 ## Code
+- **[`PythonCall.jl`](https://github.com/cjdoris/PythonCall.jl)**: Call Python code from Julia and vice-versa.
+- **[`Bokeh.jl`](https://github.com/cjdoris/Bokeh.jl)**: Julia bindings for the BokehJS plotting library.
 - **[`ARFFFiles.jl`](https://github.com/cjdoris/ARFFFiles.jl)**: For loading and saving ARFF (Attribute Relation File Format) files.
 - **[`Countries.jl`](https://github.com/cjdoris/Countries.jl)**: For handling the countries on Earth.
 - **[`CustomAxes.jl`](https://github.com/cjdoris/CustomAxes.jl)**: Arrays supporting customized axes, such as names and labels.
