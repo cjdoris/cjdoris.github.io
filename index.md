@@ -25,6 +25,11 @@ Find me on: [arXiv](https://arxiv.org/a/0000-0003-2082-8668.html), [GitHub](http
 - **[`Bokeh.jl`](https://github.com/cjdoris/Bokeh.jl)**: Julia bindings for the BokehJS plotting library.
 - **[`ARFFFiles.jl`](https://github.com/cjdoris/ARFFFiles.jl)**: For loading and saving ARFF (Attribute Relation File Format) files.
 - **[`Countries.jl`](https://github.com/cjdoris/Countries.jl)**: For handling the countries on Earth.
+- **[`PandasJSON.jl`](https://github.com/cjdoris/PandasJSON.jl)**: For loading and saving Pandas JSON files as Julia tables.
+- **[`PreferenceTools.jl`](https://github.com/cjdoris/PreferenceTools.jl)**: REPL integration for editing preferences.
+- **[`UnsafePointers.jl`](https://github.com/cjdoris/UnsafePointers.jl)**: Handle pointers with C-like syntax.
+- **[`Chevrons.jl`](https://github.com/cjdoris/Chevrons.jl)**: Simple data piping syntax.
+- **[`HuggingFaceHub.jl`](https://github.com/cjdoris/HuggingFaceHub.jl)**: Interact with the HF Hub API.
 - **[`CustomAxes.jl`](https://github.com/cjdoris/CustomAxes.jl)**: Arrays supporting customized axes, such as names and labels.
 - **[`ShadeYourData.jl`](https://github.com/cjdoris/ShadeYourData.jl)**: Interactive plotting of millions of data points.
 - **[`Edlib.jl`](https://github.com/cjdoris/Edlib.jl)**: Julia bindings for the [edlib string alignment library](https://github.com/Martinsos/edlib).
